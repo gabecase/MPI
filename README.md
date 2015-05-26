@@ -12,7 +12,7 @@
    them
    
  - Interaction = User interactions which act on page objects via their  
-   selectors. Repetitive sequences of actions can be abstracted further into a interface to improve usability and maintenance
+   selectors. Repetitive sequences of actions can be abstracted further into a interface to improve usability and maintenance,
 
 # TODO: 
 Page object patterns? Factories to generate pages? Re-useable components that exist on multiple pages e.g. navigation bars, web form elements like date pickers, custom drop down lists?
