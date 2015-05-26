@@ -11,8 +11,10 @@
    input elements), pages should not have much user interaction code in 
    them
    
+   
  - Interaction = User interactions which act on page objects via their  
-   selectors. Repetitive sequences of actions can be abstracted further into a interface to improve usability and maintenance,
+   selectors. Repetitive sequences of actions can be abstracted further into a interface to improve usability and maintenance
+
 
 # TODO: 
 Page object patterns? Factories to generate pages? Re-useable components that exist on multiple pages e.g. navigation bars, web form elements like date pickers, custom drop down lists?
@@ -41,3 +43,4 @@ e.g. MPI-python, MPI-ruby, MPI-.NET
 
 ----------
 S.O.L.I.D. theory and explanation for better object oriented code
+Best practices for this kind of code and these kind of patterns?
