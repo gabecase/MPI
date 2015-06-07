@@ -1,14 +1,14 @@
-# MPI
-*Model Page Interaction interface for selenium/web driver based test automation*
+# MVI
+*Model View Interaction design pattern for selenium/web driver based test automation*
 
 ----------
 
-**Model Page Action**
+**Model View Interaction**
 
  - Model = Test Data Objects
    
- - Page = Object Representation of elements in a page(titles, buttons,  
-   input elements), pages should not have much user interaction code in 
+ - View = Object representation of visual elements in a page(titles, buttons,  
+   input elements), views should not have much user interaction code in 
    them
    
    
@@ -44,3 +44,6 @@ e.g. MPI-python, MPI-ruby, MPI-.NET
 ----------
 S.O.L.I.D. theory and explanation for better object oriented code
 Best practices for this kind of code and these kind of patterns?
+
+---------
+Mobile? MVC pattern is popular as well. How can this pattern be used in testing other software with visual interfaces.
