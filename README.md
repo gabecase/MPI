@@ -39,7 +39,7 @@ python examples, .NET/Java examples
 
 
 Focus on design patterns, patterns established here and invididual language implementations should be there own 'fork' or implementations,
-e.g. MPI-python, MPI-ruby, MPI-.NET
+e.g. MVI-python, MVI-ruby, MVI-.NET
 
 ----------
 S.O.L.I.D. theory and explanation for better object oriented code
