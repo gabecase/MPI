@@ -1,13 +1,13 @@
-# MVI
-*Model View Interaction design pattern for selenium/web driver based test automation*
+# MPI
+*Model Page Interaction design pattern for selenium/web driver based test automation*
 
 ----------
 
-**Model View Interaction**
+**Model Page Interaction**
 
  - Model = Test Data Objects
    
- - View = Object representation of visual elements in a page(titles, buttons,  
+ - Page = Object representation of visual elements in a page(titles, buttons,  
    input elements), views should not have much user interaction code in 
    them
    
